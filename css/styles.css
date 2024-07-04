@@ -23,7 +23,7 @@ body {
 
 /* --- HEADER BÖLÜMÜ --- */
 /* "logo" class'ının özelliklerini tanımla */
-.logo {
+.header-logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -34,7 +34,7 @@ body {
 }
 
 /* "logo-span" class'ının özelliklerini tanımla */
-.logo-span {
+.header-logo-span {
     color: #2e2f42;
 }
 
@@ -184,4 +184,33 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+/* --- FOOTER BÖLÜMÜ */
+/* "footer" class'ının özelliklerini tanımla */
+.footer {
+    background-color: #2e2f42;
+}
+
+/* "footer-logo" class'ının özelliklerini tanımla */
+.footer-logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+/* "footer-logo-span" class'ının özelliklerini tanımla */
+.footer-logo-span {
+    color: #2e2f42;
+}
+
+/* "footer-paragraph" class'ının özelliklerini tanımla */
+.footer-paragraph {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
 }
