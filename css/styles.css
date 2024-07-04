@@ -1,17 +1,7 @@
 /* --- GENEL ÖZELLİK TANIMLAMALARI --- */
-/* Google Fontları Ekle */
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-
 /* Root Elemanlarına Fontları Ekle */
 :root {
     --font-family: 'Roboto', sans-serif;
-}
-
-/* HTML Tag'ine Fontları Ekle */
-html {
-    font-family: 'Roboto', sans-serif;
 }
 
 /* Body Tag'inin Özelliklerini Tanıma */
@@ -205,7 +195,7 @@ body {
 
 /* "footer-logo-span" class'ının özelliklerini tanımla */
 .footer-logo-span {
-    color: #2e2f42;
+    color: #f4f4fd;
 }
 
 /* "footer-paragraph" class'ının özelliklerini tanımla */
