@@ -121,6 +121,51 @@ body {
     color: #434455;
 }
 
+/* --- SECTION 3 BÖLÜMÜ --- */
+/* "our-team-section" class'ının özelliklerini tanımla */
+.our-team-section {
+    background-color: #f4f4fd;
+}
+
+/* "our-team-header" class'ının özelliklerini tanımla */
+.our-team-header {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+/* "our-team-list" class'ının özelliklerini tanımla */
+.our-team-list {
+    background-color: #ffffff;
+}
+
+/* "our-team-list-header" class'ının özelliklerini tanımla */
+.our-team-list-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+/* "our-team-list-paragraph" class'ının özelliklerini tanımla */
+.our-team-list-paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+
+
+
+
+
+
+
 /* Our Team section'ındaki image'lerin genişlik ve yüksekliklerini tanımla */
 .our-team-section > ul > li > img {
     width: 264px;
