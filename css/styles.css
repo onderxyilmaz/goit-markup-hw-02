@@ -10,6 +10,11 @@ html {
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    color: #434455;
+    background-color: #ffffff;
+}
+
 .our-team-section > ul > li > img {
     width: 264px;
     height: 200px;
